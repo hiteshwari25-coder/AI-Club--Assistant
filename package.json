@@ -1,0 +1,25 @@
+{
+  "name": "ai-club-assistant",
+  "private": true,
+  "version": "0.1.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "dev:server": "node server/index.js",
+    "start:server": "node server/index.js",
+    "build": "vite",
+    "preview": "vite preview",
+    "test": "node --test"
+  },
+  "dependencies": {
+    "@vitejs/plugin-react": "latest",
+    "vite": "latest",
+    "react": "latest",
+    "react-dom": "latest",
+    "lucide-react": "latest",
+    "dotenv": "latest",
+    "express": "latest",
+    "openai": "latest"
+  },
+  "devDependencies": {}
+}

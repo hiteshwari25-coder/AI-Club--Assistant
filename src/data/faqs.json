@@ -1,0 +1,7 @@
+[
+  {"id":"faq-join","category":"membership","keywords":["join","membership","sign up","member"],"answer":"Everyone is welcome! Fill out the interest form at the next Wednesday meetup, or email ai.club@example.edu. You don’t need prior AI experience."},
+  {"id":"faq-meeting","category":"club","keywords":["meeting","when","time","where","location"],"answer":"We meet every Wednesday from 4:00–5:30 PM in the Innovation Lab, Block C. Drop in whenever you can."},
+  {"id":"faq-beginner","category":"learning","keywords":["beginner","experience","start","learn"],"answer":"Absolutely. Our sessions are beginner-friendly, and we pair new members with a project buddy. Bring your curiosity; we’ll help with the rest."},
+  {"id":"faq-events","category":"events","keywords":["event","workshop","upcoming","calendar"],"answer":"Coming up: Build Night on Oct 22, our Responsible AI Roundtable on Oct 29, and Campus AI Demo Day on Nov 05. Check the event cards for details."},
+  {"id":"faq-contact","category":"club","keywords":["contact","email","organizer"],"answer":"Reach the club team at ai.club@example.edu. We usually reply within two campus days."}
+]

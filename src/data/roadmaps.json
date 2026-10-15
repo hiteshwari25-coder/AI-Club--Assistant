@@ -1,0 +1,6 @@
+[
+  {"id":"python","name":"Python","level":"Beginner","duration":"6 weeks","color":"violet","steps":["Syntax, variables & data types","Conditionals and loops","Functions and modules","Lists, dictionaries & files","OOP and error handling","Build a CLI utility or quiz app"]},
+  {"id":"java","name":"Java","level":"Beginner","duration":"8 weeks","color":"peach","steps":["JDK, syntax & variables","Conditions, loops & methods","Arrays and strings","Classes, objects & encapsulation","Collections and exceptions","Build a library manager"]},
+  {"id":"cpp","name":"C++","level":"Beginner","duration":"8 weeks","color":"mint","steps":["Compiler, syntax & types","Conditions, loops & functions","Arrays, strings & vectors","References, pointers & memory","Classes and STL","Build a console game"]},
+  {"id":"web","name":"Web development","level":"Beginner","duration":"8 weeks","color":"violet","steps":["HTML structure and semantic elements","CSS layout, Flexbox & Grid","JavaScript fundamentals","DOM and browser events","Fetch APIs and async JavaScript","Build and deploy a portfolio"]}
+]

@@ -1,0 +1,8 @@
+[
+  {"title":"Study buddy flashcards","level":"Beginner","stack":"HTML · CSS · JavaScript","description":"Create, shuffle, and review flashcards with progress saved in the browser."},
+  {"title":"Club event finder","level":"Beginner","stack":"Python · JSON","description":"A small command-line app that filters upcoming events by date and topic."},
+  {"title":"Campus lost & found","level":"Intermediate","stack":"React · Firebase","description":"A searchable board for posting and finding misplaced campus items."},
+  {"title":"AI paper explorer","level":"Intermediate","stack":"Python · FastAPI","description":"Search a public research API and organize papers into reading lists."},
+  {"title":"Open source issue matcher","level":"Advanced","stack":"React · GitHub API","description":"Recommend beginner-friendly GitHub issues from selected repositories."},
+  {"title":"Lecture notes semantic search","level":"Advanced","stack":"Python · embeddings","description":"Search personal notes by meaning and return the most relevant passages."}
+]

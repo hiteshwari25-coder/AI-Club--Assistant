@@ -1,0 +1,10 @@
+{
+  "club": {
+    "name": "AI Club",
+    "tagline": "Curiosity meets creation",
+    "location": "Innovation Lab · Block C",
+    "meetingDay": "Every Wednesday",
+    "meetingTime": "4:00 PM – 5:30 PM",
+    "email": "ai.club@example.edu"
+  }
+}
